@@ -1,0 +1,1 @@
+In 2018, the London-based digital media researcher Gabriel Pereira teamed up with the Brazilian artist Bruno Moreschi to investigate how algorithms would interpret contemporary art. For the project, the duo ran 654 works from the Van Abbemuseum in the Dutch city of Eindhoven through a homemade image-recognition program composed of six different commercially available AIs.
